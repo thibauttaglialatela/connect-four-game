@@ -37,12 +37,12 @@ h1 {
     width: 350px;
 }
 
-.player-one {
+.grid .player-one {
     background-color:firebrick;
     border-radius: 50%;
 }
 
-.player-two {
+.grid .player-two {
     background-color: yellow;
     border-radius: 50%;
 }

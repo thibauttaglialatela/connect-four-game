@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: darkblue;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.grid div {
+    height: 50px;
+    width: 50px;
+    background-color: aliceblue;
+    border: solid 1px black;
+}
+
+.grid .taken {
+    background-color: chartreuse;
+}
+
+.grid {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 350px;
+}
+
+.player-one {
+    background-color:firebrick;
+    border-radius: 50%;
+}
+
+.player-two {
+    background-color: yellow;
+    border-radius: 50%;
+}

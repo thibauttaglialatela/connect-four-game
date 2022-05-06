@@ -1,6 +1,6 @@
 # connect-four-game
 
-## Javascript methods uses in this code
+## Javascript methods used in this code
 
 1. querySelector()
 2. querySelectorAll()

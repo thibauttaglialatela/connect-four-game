@@ -27,7 +27,7 @@ h1 {
 }
 
 .grid .taken {
-    background-color: chartreuse;
+    background-color: rgba(128, 255, 0, 0);
 }
 
 .grid {
